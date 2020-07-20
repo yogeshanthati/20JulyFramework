@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Browser Launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully validated the three slides ]]>
+    </line>
+    <line>
+      <![CDATA[Browser Launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully validated the three slides ]]>
+    </line>
+    <line>
+      <![CDATA[Browser Launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[Sucessfully validated the three slides ]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2020-07-17T06:50:36Z" name="Default suite" finished-at="2020-07-17T06:57:55Z" duration-ms="439119">
+    <groups>
+    </groups>
+    <test started-at="2020-07-17T06:50:36Z" name="Default test" finished-at="2020-07-17T06:57:55Z" duration-ms="439119">
+      <class name="com.pa.qa.testcases.HomePageTest">
+        <test-method is-config="true" signature="ConfigureReport()[pri:0, instance:com.pa.qa.testcases.HomePageTest@537b32ef]" started-at="2020-07-17T12:20:33Z" name="ConfigureReport" finished-at="2020-07-17T12:20:36Z" duration-ms="3394" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureReport -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.pa.qa.testcases.HomePageTest@537b32ef]" started-at="2020-07-17T12:20:37Z" name="setUp" finished-at="2020-07-17T12:22:24Z" duration-ms="107759" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser Launched successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="HomePageSlidesTest()[pri:0, instance:com.pa.qa.testcases.HomePageTest@537b32ef]" started-at="2020-07-17T12:22:26Z" name="HomePageSlidesTest" finished-at="2020-07-17T12:23:35Z" duration-ms="69085" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Sucessfully validated the three slides ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- HomePageSlidesTest -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.pa.qa.testcases.HomePageTest@537b32ef]" started-at="2020-07-17T12:23:36Z" name="getResult" finished-at="2020-07-17T12:24:06Z" duration-ms="29951" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=HomePageSlidesTest status=SUCCESS method=HomePageTest.HomePageSlidesTest()[pri:0, instance:com.pa.qa.testcases.HomePageTest@537b32ef] output=Sucessfully validated the three slides ]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.pa.qa.testcases.HomePageTest@537b32ef]" started-at="2020-07-17T12:24:06Z" name="setUp" finished-at="2020-07-17T12:24:41Z" duration-ms="35009" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser Launched successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="HomePageArrivalsTest()[pri:1, instance:com.pa.qa.testcases.HomePageTest@537b32ef]" started-at="2020-07-17T12:24:41Z" name="HomePageArrivalsTest" finished-at="2020-07-17T12:25:11Z" duration-ms="29558" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Sucessfully validated the three slides ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- HomePageArrivalsTest -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.pa.qa.testcases.HomePageTest@537b32ef]" started-at="2020-07-17T12:25:11Z" name="getResult" finished-at="2020-07-17T12:25:19Z" duration-ms="8018" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=HomePageArrivalsTest status=SUCCESS method=HomePageTest.HomePageArrivalsTest()[pri:1, instance:com.pa.qa.testcases.HomePageTest@537b32ef] output=Sucessfully validated the three slides ]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.pa.qa.testcases.HomePageTest@537b32ef]" started-at="2020-07-17T12:25:19Z" name="setUp" finished-at="2020-07-17T12:25:48Z" duration-ms="29416" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser Launched successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="HomePageNewArrivalsNavigateTest()[pri:2, instance:com.pa.qa.testcases.HomePageTest@537b32ef]" started-at="2020-07-17T12:25:48Z" name="HomePageNewArrivalsNavigateTest" finished-at="2020-07-17T12:26:54Z" duration-ms="65655" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Sucessfully validated the three slides ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- HomePageNewArrivalsNavigateTest -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.pa.qa.testcases.HomePageTest@537b32ef]" started-at="2020-07-17T12:26:54Z" name="getResult" finished-at="2020-07-17T12:27:55Z" duration-ms="61384" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=HomePageNewArrivalsNavigateTest status=SUCCESS method=HomePageTest.HomePageNewArrivalsNavigateTest()[pri:2, instance:com.pa.qa.testcases.HomePageTest@537b32ef] output=Sucessfully validated the three slides ]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.pa.qa.testcases.HomePageTest@537b32ef]" started-at="2020-07-17T12:27:59Z" name="tearDown" finished-at="2020-07-17T12:28:02Z" duration-ms="3336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.pa.qa.testcases.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
